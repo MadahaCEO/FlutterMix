@@ -1,0 +1,16 @@
+PODS:
+  - AFNetworking (0.10.1)
+
+DEPENDENCIES:
+  - AFNetworking
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+
+SPEC CHECKSUMS:
+  AFNetworking: 560d6b9394bf2f80c1efac9141e0d36739e0ff6d
+
+PODFILE CHECKSUM: 6f74b440a8fea19b74aa18a105fd47fac0d73908
+
+COCOAPODS: 1.11.3
